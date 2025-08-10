@@ -1,6 +1,6 @@
-# WITNESS: A Lightweight Approach for Fine-Grained Predictive Mutation Testing
+# Simpler and more effective: Unlocking fine-grained predictive mutation testing with zero-deep-learning
 
-This supplementary material includes the dataset and source code for the paper, *WITNESS: A Lightweight Approach for Fine-Grained Predictive Mutation Testing*.
+This supplementary material includes the dataset and source code for the paper, *Simpler and more effective: Unlocking fine-grained predictive mutation testing with zero-deep-learning*.
 
 ## Requirements
 
