@@ -1,6 +1,6 @@
-# Simpler and more effective: Unlocking fine-grained predictive mutation testing with zero-deep-learning
+# Simpler yet more effective: Advancing fine-grained predictive mutation testing via classical machine learning
 
-This supplementary material includes the dataset and source code for the paper, *Simpler and more effective: Unlocking fine-grained predictive mutation testing with zero-deep-learning*.
+This supplementary material includes the dataset and source code for the paper, *Simpler yet more effective: Advancing fine-grained predictive mutation testing via classical machine learning*.
 
 ## Requirements
 
