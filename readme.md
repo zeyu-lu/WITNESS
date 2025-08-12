@@ -1,6 +1,6 @@
-# Simpler yet more effective: Advancing fine-grained predictive mutation testing via classical machine learning
+# WITNESS: A lightweight and practical approach to fine-grained predictive mutation testing
 
-This supplementary material includes the dataset and source code for the paper, *Simpler yet more effective: Advancing fine-grained predictive mutation testing via classical machine learning*.
+This supplementary material includes the dataset and source code for the paper, *WITNESS: A lightweight and practical approach to fine-grained predictive mutation testing*.
 
 ## Requirements
 
