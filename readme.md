@@ -1,6 +1,6 @@
-# WITNESS: A lightweight and practical approach to fine-grained predictive mutation testing
+# WITNESS: WITNESS: Unlocking lightweight and practical fine-grained predictive mutation testing
 
-This supplementary material includes the dataset and source code for the paper, *WITNESS: A lightweight and practical approach to fine-grained predictive mutation testing*.
+This supplementary material includes the dataset and source code for the paper, *WITNESS: Unlocking lightweight and practical fine-grained predictive mutation testing*.
 
 ## Requirements
 
