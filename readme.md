@@ -23,7 +23,7 @@ We use ANTLR to parse Java source classes. Specifically, we adopt `antlr-4.11.1-
 
 This directory contains all other source code related to the features of WITNESS. The `WITNESSMutant.java` file in `witness_java` and the two Python scripts `my_understand_call_callby_cli.py` and `my_understand_mccabe_cli.py` are responsible for collecting the features **Call**, **Callby**, and **SourceComplexity** in WITNESS. Specifically, `my_understand_call_callby_cli.py` and `my_understand_mccabe_cli.py` are invoked by `WITNESSMutant.java`. We use **Understand 6.4** to collect these features.
 
-- The `hits_number` subdirectory collects the dynamic feature **HitsNumber**.
+- The `hits_number` subdirectory collects the dynamic feature **HitsNumber**. First, run the script `my_hits_write.py`, followed by `my_hits_kill.py`.
 - The `test_complexity` subdirectory collects the feature **TestComplexity**.
 - The `data_split` subdirectory contains the source code to split the feature data based on mutants. Specifically, we divide the mutants into a training set, validation set, and test set. We then create mutant-test pairs by associating each mutant with the corresponding test cases that can reach the mutated statement. As a result, the feature data in the training, validation, and test sets do not intersect with each other in terms of mutants.
 
